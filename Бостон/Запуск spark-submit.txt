@@ -1,0 +1,1 @@
+spark-submit --master local --class com.MyCode path\target\scala-2.11\DZ-assembly-0.0.1.jar path\crime.csv path\offense_codes.csv C:\result
